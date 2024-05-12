@@ -1,0 +1,1222 @@
+2021-07-20 16:46:56,682,INFO,[] Platform: Windows-10-10.0.19041-SP0
+2021-07-20 16:46:56,682,INFO,[] Path: D:\openQCM\openQCM Next\code\_code_RELEASE\_openQCM_Next_py_0.1.2\openQCM_Next_py_0.1.2_source\openQCM_Next_py_0.1.2_source\OPENQCM
+2021-07-20 16:46:56,683,INFO,[] Python version: 3.7.10
+2021-07-20 16:46:56,691,INFO,[] Application started
+2021-07-20 16:46:57,044,INFO,[] Scanning the source: Calibration
+2021-07-20 16:47:12,752,INFO,[] Finishing Application...
+
+2021-07-20 16:47:12,753,INFO,[] Application closed
+
+2021-07-20 16:49:59,169,INFO,[] Platform: Windows-10-10.0.19041-SP0
+2021-07-20 16:49:59,169,INFO,[] Path: D:\openQCM\openQCM Next\code\_code_RELEASE\_openQCM_Next_py_0.1.2\openQCM_Next_py_0.1.2_source\openQCM_Next_py_0.1.2_source\OPENQCM
+2021-07-20 16:49:59,170,INFO,[] Python version: 3.7.10
+2021-07-20 16:49:59,177,INFO,[] Application started
+2021-07-20 16:49:59,535,INFO,[] Scanning the source: Calibration
+2021-07-20 16:50:10,739,INFO,[] Finishing Application...
+
+2021-07-20 16:50:10,739,INFO,[] Application closed
+
+2021-07-20 16:51:18,153,INFO,[] Platform: Windows-10-10.0.19041-SP0
+2021-07-20 16:51:18,153,INFO,[] Path: D:\openQCM\openQCM Next\code\_code_RELEASE\_openQCM_Next_py_0.1.2\openQCM_Next_py_0.1.2_source\openQCM_Next_py_0.1.2_source\OPENQCM
+2021-07-20 16:51:18,153,INFO,[] Python version: 3.7.10
+2021-07-20 16:51:18,161,INFO,[] Application started
+2021-07-20 16:51:18,513,INFO,[] Scanning the source: Calibration
+2021-07-20 16:51:45,970,INFO,[] Finishing Application...
+
+2021-07-20 16:51:45,970,INFO,[] Application closed
+
+2021-07-20 16:52:52,487,INFO,[] Platform: Windows-10-10.0.19041-SP0
+2021-07-20 16:52:52,487,INFO,[] Path: D:\openQCM\openQCM Next\code\_code_RELEASE\_openQCM_Next_py_0.1.2\openQCM_Next_py_0.1.2_source\openQCM_Next_py_0.1.2_source\OPENQCM
+2021-07-20 16:52:52,487,INFO,[] Python version: 3.7.10
+2021-07-20 16:52:52,495,INFO,[] Application started
+2021-07-20 16:52:52,849,INFO,[] Scanning the source: Calibration
+2021-07-20 16:53:00,744,INFO,[] Finishing Application...
+
+2021-07-20 16:53:00,744,INFO,[] Application closed
+
+2021-07-20 16:53:53,897,INFO,[] Platform: Windows-10-10.0.19041-SP0
+2021-07-20 16:53:53,897,INFO,[] Path: D:\openQCM\openQCM Next\code\_code_RELEASE\_openQCM_Next_py_0.1.2\openQCM_Next_py_0.1.2_source\openQCM_Next_py_0.1.2_source\OPENQCM
+2021-07-20 16:53:53,897,INFO,[] Python version: 3.7.10
+2021-07-20 16:53:53,906,INFO,[] Application started
+2021-07-20 16:53:54,263,INFO,[] Scanning the source: Calibration
+2021-07-20 16:54:08,011,INFO,[] Finishing Application...
+
+2021-07-20 16:54:08,011,INFO,[] Application closed
+
+2021-07-20 17:07:01,926,INFO,[] Platform: Windows-10-10.0.19041-SP0
+2021-07-20 17:07:01,926,INFO,[] Path: D:\openQCM\openQCM Next\code\_code_RELEASE\_openQCM_Next_py_0.1.2\openQCM_Next_py_0.1.2_source\openQCM_Next_py_0.1.2_source\OPENQCM
+2021-07-20 17:07:01,926,INFO,[] Python version: 3.7.10
+2021-07-20 17:07:01,934,INFO,[] Application started
+2021-07-20 17:07:02,291,INFO,[] Scanning the source: Calibration
+2021-07-20 17:07:17,784,INFO,[] Clicked START
+2021-07-20 17:07:39,207,INFO,[] Running processes stopped...
+2021-07-20 17:07:39,207,INFO,[] Processes finished
+2021-07-20 17:07:56,999,INFO,[] Scanning the source: Single Measurement
+2021-07-20 17:07:58,072,INFO,[] Clicked START
+2021-07-20 17:08:07,541,INFO,[] Storing in: logged_data\2021-Jul-20_17-07-58_fundamental.csv
+2021-07-20 17:09:08,121,INFO,[] Running processes stopped...
+2021-07-20 17:09:08,122,INFO,[] Processes finished
+2021-07-20 17:09:11,848,INFO,[] Scanning the source: Multiscan Measurement
+2021-07-20 17:09:13,781,INFO,[] Clicked START
+2021-07-20 17:09:50,447,INFO,[] Storing in: logged_data\2021-Jul-20_17-09-14_multi_.csv
+2021-07-20 17:10:16,670,INFO,[] Running processes stopped...
+2021-07-20 17:10:16,670,INFO,[] Processes finished
+2021-07-20 17:10:19,753,INFO,[] Scanning the source: Calibration
+2021-07-20 17:10:21,250,INFO,[] Clicked START
+2021-07-20 17:10:42,625,INFO,[] Running processes stopped...
+2021-07-20 17:10:42,626,INFO,[] Processes finished
+2021-07-20 17:10:42,631,INFO,[] Running processes stopped...
+2021-07-20 17:10:42,631,INFO,[] Processes finished
+2021-07-20 17:10:42,635,INFO,[] Running processes stopped...
+2021-07-20 17:10:42,635,INFO,[] Processes finished
+2021-07-20 17:10:42,640,INFO,[] Running processes stopped...
+2021-07-20 17:10:42,640,INFO,[] Processes finished
+2021-07-20 17:10:49,831,INFO,[] Scanning the source: Single Measurement
+2021-07-20 17:10:55,135,INFO,[] Scanning the source: Multiscan Measurement
+2021-07-20 17:10:55,986,INFO,[] Clicked START
+2021-07-20 17:11:32,807,INFO,[] Storing in: logged_data\2021-Jul-20_17-10-56_multi_.csv
+2021-07-20 17:12:41,946,INFO,[] Platform: Windows-10-10.0.19041-SP0
+2021-07-20 17:12:41,946,INFO,[] Path: D:\openQCM\openQCM Next\code\_code_RELEASE\_openQCM_Next_py_0.1.2\openQCM_Next_py_0.1.2_source\openQCM_Next_py_0.1.2_source\OPENQCM
+2021-07-20 17:12:41,947,INFO,[] Python version: 3.7.10
+2021-07-20 17:12:41,954,INFO,[] Application started
+2021-07-20 17:12:42,311,INFO,[] Scanning the source: Calibration
+2021-07-20 17:12:47,304,INFO,[] Scanning the source: Single Measurement
+2021-07-20 17:12:48,486,INFO,[] Clicked START
+2021-07-20 17:12:57,915,INFO,[] Storing in: logged_data\2021-Jul-20_17-12-48_fundamental.csv
+2021-07-20 17:13:20,713,INFO,[] Running processes stopped...
+2021-07-20 17:13:20,714,INFO,[] Processes finished
+2021-07-20 17:13:24,615,INFO,[] Scanning the source: Multiscan Measurement
+2021-07-20 17:13:27,116,INFO,[] Clicked START
+2021-07-20 17:14:03,486,INFO,[] Platform: Windows-10-10.0.19041-SP0
+2021-07-20 17:14:03,486,INFO,[] Path: D:\openQCM\openQCM Next\code\_code_RELEASE\_openQCM_Next_py_0.1.2\openQCM_Next_py_0.1.2_source\openQCM_Next_py_0.1.2_source\OPENQCM
+2021-07-20 17:14:03,486,INFO,[] Python version: 3.7.10
+2021-07-20 17:14:03,494,INFO,[] Application started
+2021-07-20 17:14:03,851,INFO,[] Scanning the source: Calibration
+2021-07-20 17:14:07,711,INFO,[] Scanning the source: Multiscan Measurement
+2021-07-20 17:14:08,408,INFO,[] Clicked START
+2021-07-20 17:14:45,046,INFO,[] Storing in: logged_data\2021-Jul-20_17-14-09_multi_.csv
+2021-07-20 17:16:11,880,INFO,[] Running processes stopped...
+2021-07-20 17:16:11,881,INFO,[] Processes finished
+2021-07-20 17:16:13,939,INFO,[] Finishing Application...
+
+2021-07-20 17:16:13,940,INFO,[] Application closed
+
+2021-07-20 17:53:34,769,INFO,[] Platform: Windows-10-10.0.19041-SP0
+2021-07-20 17:53:34,769,INFO,[] Path: D:\openQCM\openQCM Next\code\_code_RELEASE\openQCM_Next_py_0.1.2\openQCM_Next_py_0.1.2_source\openQCM_Next_py_0.1.2_source\OPENQCM
+2021-07-20 17:53:34,770,INFO,[] Python version: 3.7.10
+2021-07-20 17:53:34,780,INFO,[] Application started
+2021-07-20 17:53:35,187,INFO,[] Scanning the source: Calibration
+2021-07-20 17:53:55,829,INFO,[] Finishing Application...
+
+2021-07-20 17:53:55,830,INFO,[] Application closed
+
+2021-07-20 18:13:42,474,INFO,[] Platform: Windows-10-10.0.19041-SP0
+2021-07-20 18:13:42,474,INFO,[] Path: D:\openQCM\openQCM Next\code\_code_RELEASE\openQCM_Next_py_0.1.2\openQCM_Next_py_0.1.2_source\openQCM_Next_py_0.1.2_source\OPENQCM
+2021-07-20 18:13:42,474,INFO,[] Python version: 3.7.10
+2021-07-20 18:13:42,485,INFO,[] Application started
+2021-07-20 18:13:42,845,INFO,[] Scanning the source: Calibration
+2021-07-20 18:14:02,462,INFO,[] Clicked START
+2021-07-20 18:14:24,722,INFO,[] Running processes stopped...
+2021-07-20 18:14:24,723,INFO,[] Processes finished
+2021-07-20 18:14:36,126,INFO,[] Scanning the source: Multiscan Measurement
+2021-07-20 18:14:37,279,INFO,[] Clicked START
+2021-07-20 18:18:18,835,INFO,[] Platform: Windows-10-10.0.19041-SP0
+2021-07-20 18:18:18,835,INFO,[] Path: D:\openQCM\openQCM Next\code\_code_RELEASE\openQCM_Next_py_0.1.2\openQCM_Next_py_0.1.2_source\openQCM_Next_py_0.1.2_source\OPENQCM
+2021-07-20 18:18:18,836,INFO,[] Python version: 3.7.10
+2021-07-20 18:18:18,845,INFO,[] Application started
+2021-07-20 18:18:19,215,INFO,[] Scanning the source: Calibration
+2021-07-20 18:18:25,806,INFO,[] Scanning the source: Single Measurement
+2021-07-20 18:18:26,709,INFO,[] Clicked START
+2021-07-20 18:18:39,279,INFO,[] Finishing Application...
+
+2021-07-20 18:18:39,279,INFO,[] Application closed
+
+2021-07-20 18:18:43,776,INFO,[] Platform: Windows-10-10.0.19041-SP0
+2021-07-20 18:18:43,777,INFO,[] Path: D:\openQCM\openQCM Next\code\_code_RELEASE\openQCM_Next_py_0.1.2\openQCM_Next_py_0.1.2_source\openQCM_Next_py_0.1.2_source\OPENQCM
+2021-07-20 18:18:43,777,INFO,[] Python version: 3.7.10
+2021-07-20 18:18:43,786,INFO,[] Application started
+2021-07-20 18:18:44,164,INFO,[] Scanning the source: Calibration
+2021-07-20 18:18:54,509,INFO,[] Scanning the source: Single Measurement
+2021-07-20 18:18:55,219,INFO,[] Clicked START
+2021-07-20 18:19:04,689,INFO,[] Storing in: logged_data\2021-Jul-20_18-18-55_fundamental.csv
+2021-07-20 18:19:35,570,INFO,[] Running processes stopped...
+2021-07-20 18:19:35,570,INFO,[] Processes finished
+2021-07-20 18:19:38,526,INFO,[] Scanning the source: Multiscan Measurement
+2021-07-20 18:19:40,046,INFO,[] Clicked START
+2021-07-20 18:22:32,723,INFO,[] Platform: Windows-10-10.0.19041-SP0
+2021-07-20 18:22:32,723,INFO,[] Path: D:\openQCM\openQCM Next\code\_code_RELEASE\openQCM_Next_py_0.1.2\openQCM_Next_py_0.1.2_source\openQCM_Next_py_0.1.2_source\OPENQCM
+2021-07-20 18:22:32,723,INFO,[] Python version: 3.7.10
+2021-07-20 18:22:32,732,INFO,[] Application started
+2021-07-20 18:22:33,108,INFO,[] Scanning the source: Calibration
+2021-07-20 18:22:36,286,INFO,[] Scanning the source: Multiscan Measurement
+2021-07-20 18:22:37,491,INFO,[] Clicked START
+2021-07-20 18:23:15,708,INFO,[] Storing in: logged_data\2021-Jul-20_18-22-38_multi_.csv
+2021-07-20 18:24:03,195,INFO,[] Running processes stopped...
+2021-07-20 18:24:03,195,INFO,[] Processes finished
+2021-07-20 18:24:06,334,INFO,[] Scanning the source: Single Measurement
+2021-07-20 18:24:07,450,INFO,[] Clicked START
+2021-07-20 18:24:16,882,INFO,[] Storing in: logged_data\2021-Jul-20_18-24-07_fundamental.csv
+2021-07-20 18:24:19,776,INFO,[] Running processes stopped...
+2021-07-20 18:24:19,776,INFO,[] Processes finished
+2021-07-20 18:24:22,349,INFO,[] Scanning the source: Multiscan Measurement
+2021-07-20 18:24:23,314,INFO,[] Clicked START
+2021-07-20 18:31:18,075,INFO,[] Platform: Windows-10-10.0.19041-SP0
+2021-07-20 18:31:18,076,INFO,[] Path: D:\openQCM\openQCM Next\code\_code_RELEASE\openQCM_Next_py_0.1.2\openQCM_Next_py_0.1.2_source\openQCM_Next_py_0.1.2_source\OPENQCM
+2021-07-20 18:31:18,076,INFO,[] Python version: 3.7.10
+2021-07-20 18:31:18,085,INFO,[] Application started
+2021-07-20 18:31:18,469,INFO,[] Scanning the source: Calibration
+2021-07-20 18:31:22,013,INFO,[] Scanning the source: Multiscan Measurement
+2021-07-20 18:31:22,886,INFO,[] Clicked START
+2021-07-20 18:31:32,896,INFO,[] Running processes stopped...
+2021-07-20 18:31:32,896,INFO,[] Processes finished
+2021-07-20 18:31:36,275,INFO,[] Clicked START
+2021-07-20 18:32:13,031,INFO,[] Storing in: logged_data\2021-Jul-20_18-31-36_multi_.csv
+2021-07-20 18:32:17,939,INFO,[] Running processes stopped...
+2021-07-20 18:32:17,939,INFO,[] Processes finished
+2021-07-20 18:32:20,317,INFO,[] Scanning the source: Single Measurement
+2021-07-20 18:32:21,203,INFO,[] Clicked START
+2021-07-20 18:32:30,706,INFO,[] Storing in: logged_data\2021-Jul-20_18-32-21_fundamental.csv
+2021-07-20 18:32:35,192,INFO,[] Running processes stopped...
+2021-07-20 18:32:35,192,INFO,[] Processes finished
+2021-07-20 18:32:37,726,INFO,[] Scanning the source: Multiscan Measurement
+2021-07-20 18:32:38,523,INFO,[] Clicked START
+2021-07-20 18:33:15,327,INFO,[] Storing in: logged_data\2021-Jul-20_18-32-39_multi_.csv
+2021-07-20 18:34:59,127,INFO,[] Platform: Windows-10-10.0.19041-SP0
+2021-07-20 18:34:59,127,INFO,[] Path: D:\openQCM\openQCM Next\code\_code_RELEASE\openQCM_Next_py_0.1.2\openQCM_Next_py_0.1.2_source\openQCM_Next_py_0.1.2_source\OPENQCM
+2021-07-20 18:34:59,127,INFO,[] Python version: 3.7.10
+2021-07-20 18:34:59,136,INFO,[] Application started
+2021-07-20 18:34:59,523,INFO,[] Scanning the source: Calibration
+2021-07-20 18:35:03,965,INFO,[] Scanning the source: Single Measurement
+2021-07-20 18:35:04,747,INFO,[] Clicked START
+2021-07-20 18:35:14,186,INFO,[] Storing in: logged_data\2021-Jul-20_18-35-04_fundamental.csv
+2021-07-20 18:36:23,144,INFO,[] Running processes stopped...
+2021-07-20 18:36:23,144,INFO,[] Processes finished
+2021-07-20 18:36:26,981,INFO,[] Scanning the source: Multiscan Measurement
+2021-07-20 18:36:28,812,INFO,[] Clicked START
+2021-07-20 18:37:29,975,INFO,[] Platform: Windows-10-10.0.19041-SP0
+2021-07-20 18:37:29,975,INFO,[] Path: D:\openQCM\openQCM Next\code\_code_RELEASE\openQCM_Next_py_0.1.2\openQCM_Next_py_0.1.2_source\openQCM_Next_py_0.1.2_source\OPENQCM
+2021-07-20 18:37:29,976,INFO,[] Python version: 3.7.10
+2021-07-20 18:37:29,984,INFO,[] Application started
+2021-07-20 18:37:30,366,INFO,[] Scanning the source: Calibration
+2021-07-20 18:37:34,862,INFO,[] Scanning the source: Multiscan Measurement
+2021-07-20 18:37:36,413,INFO,[] Scanning the source: Single Measurement
+2021-07-20 18:37:37,194,INFO,[] Clicked START
+2021-07-20 18:37:46,646,INFO,[] Storing in: logged_data\2021-Jul-20_18-37-37_fundamental.csv
+2021-07-20 18:38:02,080,INFO,[] Running processes stopped...
+2021-07-20 18:38:02,080,INFO,[] Processes finished
+2021-07-20 18:38:04,693,INFO,[] Scanning the source: Multiscan Measurement
+2021-07-20 18:38:06,418,INFO,[] Clicked START
+2021-07-20 18:38:43,129,INFO,[] Storing in: logged_data\2021-Jul-20_18-38-07_multi_.csv
+2021-07-20 18:45:16,538,INFO,[] Platform: Windows-10-10.0.19041-SP0
+2021-07-20 18:45:16,538,INFO,[] Path: D:\openQCM\openQCM Next\code\_code_RELEASE\openQCM_Next_py_0.1.2\openQCM_Next_py_0.1.2_source\openQCM_Next_py_0.1.2_source\OPENQCM
+2021-07-20 18:45:16,538,INFO,[] Python version: 3.7.10
+2021-07-20 18:45:16,547,INFO,[] Application started
+2021-07-20 18:45:16,906,INFO,[] Scanning the source: Calibration
+2021-07-20 18:45:19,958,INFO,[] Scanning the source: Single Measurement
+2021-07-20 18:45:20,774,INFO,[] Clicked START
+2021-07-20 18:45:30,217,INFO,[] Storing in: logged_data\2021-Jul-20_18-45-20_fundamental.csv
+2021-07-20 18:45:33,814,INFO,[] Running processes stopped...
+2021-07-20 18:45:33,814,INFO,[] Processes finished
+2021-07-20 18:45:38,557,INFO,[] Scanning the source: Multiscan Measurement
+2021-07-20 18:45:39,286,INFO,[] Clicked START
+2021-07-20 18:46:16,192,INFO,[] Storing in: logged_data\2021-Jul-20_18-45-39_multi_.csv
+2021-07-20 18:46:55,130,INFO,[] Running processes stopped...
+2021-07-20 18:46:55,130,INFO,[] Processes finished
+2021-07-20 18:46:56,719,INFO,[] Finishing Application...
+
+2021-07-20 18:46:56,719,INFO,[] Application closed
+
+2021-07-21 10:56:39,317,INFO,[] Platform: Windows-10-10.0.19041-SP0
+2021-07-21 10:56:39,318,INFO,[] Path: D:\openQCM\openQCM Next\code\_code_RELEASE\_openQCM_Next_py_0.1.2\openQCM_Next_py_0.1.2_source\openQCM_Next_py_0.1.2_source\OPENQCM
+2021-07-21 10:56:39,318,INFO,[] Python version: 3.7.10
+2021-07-21 10:56:39,328,INFO,[] Application started
+2021-07-21 10:56:39,739,INFO,[] Scanning the source: Calibration
+2021-07-21 10:57:07,579,INFO,[] Clicked START
+2021-07-21 10:57:29,072,INFO,[] Running processes stopped...
+2021-07-21 10:57:29,072,INFO,[] Processes finished
+2021-07-21 11:25:27,607,INFO,[] Finishing Application...
+
+2021-07-21 11:25:27,607,INFO,[] Application closed
+
+2021-07-21 12:05:08,901,INFO,[] Platform: Windows-10-10.0.19041-SP0
+2021-07-21 12:05:08,901,INFO,[] Path: D:\openQCM\openQCM Next\code\_code_RELEASE\_openQCM_Next_py_0.1.2\openQCM_Next_py_0.1.2_source\openQCM_Next_py_0.1.2_source\OPENQCM
+2021-07-21 12:05:08,901,INFO,[] Python version: 3.7.10
+2021-07-21 12:05:08,911,INFO,[] Application started
+2021-07-21 12:05:09,305,INFO,[] Scanning the source: Calibration
+2021-07-21 12:05:25,278,INFO,[] Clicked START
+2021-07-21 12:05:46,676,INFO,[] Running processes stopped...
+2021-07-21 12:05:46,678,INFO,[] Processes finished
+2021-07-21 12:05:58,880,INFO,[] Clicked START
+2021-07-21 12:06:20,153,INFO,[] Running processes stopped...
+2021-07-21 12:06:20,154,INFO,[] Processes finished
+2021-07-21 12:06:20,162,INFO,[] Running processes stopped...
+2021-07-21 12:06:20,162,INFO,[] Processes finished
+2021-07-21 12:06:22,815,INFO,[] Scanning the source: Single Measurement
+2021-07-21 12:06:24,068,INFO,[] Clicked START
+2021-07-21 12:06:33,501,INFO,[] Storing in: logged_data\2021-Jul-21_12-06-24_fundamental.csv
+2021-07-21 12:07:23,192,INFO,[] Running processes stopped...
+2021-07-21 12:07:23,193,INFO,[] Processes finished
+2021-07-21 12:07:27,671,INFO,[] Scanning the source: Multiscan Measurement
+2021-07-21 12:07:29,123,INFO,[] Clicked START
+2021-07-21 12:07:38,918,INFO,[] Running processes stopped...
+2021-07-21 12:07:38,918,INFO,[] Processes finished
+2021-07-21 12:07:46,516,INFO,[] Finishing Application...
+
+2021-07-21 12:07:46,516,INFO,[] Application closed
+
+2021-07-21 12:08:19,801,INFO,[] Platform: Windows-10-10.0.19041-SP0
+2021-07-21 12:08:19,801,INFO,[] Path: D:\openQCM\openQCM Next\code\_code_RELEASE\_openQCM_Next_py_0.1.2\openQCM_Next_py_0.1.2_source\openQCM_Next_py_0.1.2_source\OPENQCM
+2021-07-21 12:08:19,801,INFO,[] Python version: 3.7.10
+2021-07-21 12:08:19,811,INFO,[] Application started
+2021-07-21 12:08:20,171,INFO,[] Scanning the source: Calibration
+2021-07-21 12:08:51,631,INFO,[] Scanning the source: Multiscan Measurement
+2021-07-21 12:08:55,340,INFO,[] Clicked START
+2021-07-21 12:09:31,714,INFO,[] Storing in: logged_data\2021-Jul-21_12-08-56_multi_.csv
+2021-07-21 12:12:29,267,INFO,[] Running processes stopped...
+2021-07-21 12:12:29,268,INFO,[] Processes finished
+2021-07-21 12:12:36,686,INFO,[] Clicked START
+2021-07-21 12:12:40,300,INFO,[] Running processes stopped...
+2021-07-21 12:12:40,300,INFO,[] Processes finished
+2021-07-21 12:37:53,743,INFO,[] Platform: Windows-10-10.0.19041-SP0
+2021-07-21 12:37:53,744,INFO,[] Path: D:\openQCM\openQCM Next\code\_code_RELEASE\_openQCM_Next_py_0.1.2\openQCM_Next_py_0.1.2_source\openQCM_Next_py_0.1.2_source\OPENQCM
+2021-07-21 12:37:53,744,INFO,[] Python version: 3.7.10
+2021-07-21 12:37:53,752,INFO,[] Application started
+2021-07-21 12:37:54,105,INFO,[] Scanning the source: Calibration
+2021-07-21 12:38:04,175,INFO,[] Clicked START
+2021-07-21 12:38:26,408,INFO,[] Running processes stopped...
+2021-07-21 12:38:26,410,INFO,[] Processes finished
+2021-07-21 12:38:41,159,INFO,[] Scanning the source: Single Measurement
+2021-07-21 12:38:42,174,INFO,[] Clicked START
+2021-07-21 12:38:51,608,INFO,[] Storing in: logged_data\2021-Jul-21_12-38-42_fundamental.csv
+2021-07-21 12:39:27,273,INFO,[] Running processes stopped...
+2021-07-21 12:39:27,274,INFO,[] Processes finished
+2021-07-21 12:39:31,303,INFO,[] Scanning the source: Multiscan Measurement
+2021-07-21 12:39:32,350,INFO,[] Clicked START
+2021-07-21 12:40:08,779,INFO,[] Storing in: logged_data\2021-Jul-21_12-39-32_multi_.csv
+2021-07-21 12:41:14,941,INFO,[] Running processes stopped...
+2021-07-21 12:41:14,942,INFO,[] Processes finished
+2021-07-21 12:41:20,047,INFO,[] Finishing Application...
+
+2021-07-21 12:41:20,049,INFO,[] Application closed
+
+2021-07-21 12:58:01,191,INFO,[] Platform: Windows-10-10.0.19041-SP0
+2021-07-21 12:58:01,191,INFO,[] Path: D:\openQCM\openQCM Next\code\_code_RELEASE\_openQCM_Next_py_0.1.2\openQCM_Next_py_0.1.2_source\openQCM_Next_py_0.1.2_source\OPENQCM
+2021-07-21 12:58:01,192,INFO,[] Python version: 3.7.10
+2021-07-21 12:58:01,200,INFO,[] Application started
+2021-07-21 12:58:01,561,INFO,[] Scanning the source: Calibration
+2021-07-21 12:58:08,255,INFO,[] Scanning the source: Multiscan Measurement
+2021-07-21 12:58:12,886,INFO,[] Scanning the source: Single Measurement
+2021-07-21 12:58:13,868,INFO,[] Clicked START
+2021-07-21 12:58:23,351,INFO,[] Storing in: logged_data\2021-Jul-21_12-58-14_fundamental.csv
+2021-07-21 12:58:47,944,INFO,[] Running processes stopped...
+2021-07-21 12:58:47,945,INFO,[] Processes finished
+2021-07-21 12:58:50,686,INFO,[] Scanning the source: Multiscan Measurement
+2021-07-21 12:58:52,483,INFO,[] Clicked START
+2021-07-21 12:59:30,668,INFO,[] Storing in: logged_data\2021-Jul-21_12-58-53_multi_.csv
+2021-07-21 13:08:35,059,INFO,[] Running processes stopped...
+2021-07-21 13:08:35,059,INFO,[] Processes finished
+2021-07-21 13:08:41,907,INFO,[] Clicked START
+2021-07-21 13:09:18,219,INFO,[] Storing in: logged_data\2021-Jul-21_13-08-42_multi_.csv
+2021-07-21 13:11:45,456,INFO,[] Running processes stopped...
+2021-07-21 13:11:45,457,INFO,[] Processes finished
+2021-07-21 13:11:47,054,INFO,[] Finishing Application...
+
+2021-07-21 13:11:47,054,INFO,[] Application closed
+
+2021-07-21 13:11:52,641,INFO,[] Platform: Windows-10-10.0.19041-SP0
+2021-07-21 13:11:52,641,INFO,[] Path: D:\openQCM\openQCM Next\code\_code_RELEASE\_openQCM_Next_py_0.1.2\openQCM_Next_py_0.1.2_source\openQCM_Next_py_0.1.2_source\OPENQCM
+2021-07-21 13:11:52,641,INFO,[] Python version: 3.7.10
+2021-07-21 13:11:52,650,INFO,[] Application started
+2021-07-21 13:11:53,010,INFO,[] Scanning the source: Calibration
+2021-07-21 13:11:57,574,INFO,[] Scanning the source: Multiscan Measurement
+2021-07-21 13:11:58,835,INFO,[] Clicked START
+2021-07-21 13:12:35,149,INFO,[] Storing in: logged_data\2021-Jul-21_13-11-59_multi_.csv
+2021-07-21 13:12:39,629,INFO,[] Running processes stopped...
+2021-07-21 13:12:39,630,INFO,[] Processes finished
+2021-07-21 13:12:51,762,INFO,[] Clicked START
+2021-07-21 13:13:30,094,INFO,[] Storing in: logged_data\2021-Jul-21_13-12-52_multi_.csv
+2021-07-21 13:13:38,869,INFO,[] Running processes stopped...
+2021-07-21 13:13:38,869,INFO,[] Processes finished
+2021-07-21 13:13:42,653,INFO,[] Clicked START
+2021-07-21 13:14:18,931,INFO,[] Storing in: logged_data\2021-Jul-21_13-13-43_multi_.csv
+2021-07-21 13:19:14,388,INFO,[] Running processes stopped...
+2021-07-21 13:19:14,388,INFO,[] Processes finished
+2021-07-21 13:19:16,084,INFO,[] Finishing Application...
+
+2021-07-21 13:19:16,085,INFO,[] Application closed
+
+2021-07-21 13:31:32,798,INFO,[] Platform: Windows-10-10.0.19041-SP0
+2021-07-21 13:31:32,798,INFO,[] Path: D:\openQCM\openQCM Next\code\_code_RELEASE\_openQCM_Next_py_0.1.2\openQCM_Next_py_0.1.2_source\openQCM_Next_py_0.1.2_source\OPENQCM
+2021-07-21 13:31:32,798,INFO,[] Python version: 3.7.10
+2021-07-21 13:31:32,809,INFO,[] Application started
+2021-07-21 13:31:33,163,INFO,[] Scanning the source: Calibration
+2021-07-21 13:31:37,958,INFO,[] Scanning the source: Multiscan Measurement
+2021-07-21 13:31:38,858,INFO,[] Clicked START
+2021-07-21 13:32:17,052,INFO,[] Storing in: logged_data\2021-Jul-21_13-31-39_multi_.csv
+2021-07-21 14:20:37,190,INFO,[] Platform: Windows-10-10.0.19041-SP0
+2021-07-21 14:20:37,190,INFO,[] Path: D:\openQCM\openQCM Next\code\_code_RELEASE\_openQCM_Next_py_0.1.2\openQCM_Next_py_0.1.2_source\openQCM_Next_py_0.1.2_source\OPENQCM
+2021-07-21 14:20:37,190,INFO,[] Python version: 3.7.10
+2021-07-21 14:20:37,199,INFO,[] Application started
+2021-07-21 14:20:37,581,INFO,[] Scanning the source: Calibration
+2021-07-21 14:20:43,032,INFO,[] Finishing Application...
+
+2021-07-21 14:20:43,032,INFO,[] Application closed
+
+2021-07-21 14:20:55,975,INFO,[] Window closed without stopping the capture, application will stop...
+2021-07-21 14:20:56,987,INFO,[] Running processes stopped...
+2021-07-21 14:20:56,989,INFO,[] Processes finished
+2021-07-21 14:20:58,601,INFO,[] Finishing Application...
+
+2021-07-21 14:20:58,601,INFO,[] Application closed
+
+2021-07-21 14:32:30,554,INFO,[] Platform: Windows-10-10.0.19041-SP0
+2021-07-21 14:32:30,554,INFO,[] Path: D:\openQCM\openQCM Next\code\_code_RELEASE\_openQCM_Next_py_0.1.2\openQCM_Next_py_0.1.2_source\openQCM_Next_py_0.1.2_source\OPENQCM
+2021-07-21 14:32:30,554,INFO,[] Python version: 3.7.10
+2021-07-21 14:32:30,562,INFO,[] Application started
+2021-07-21 14:32:30,920,INFO,[] Scanning the source: Calibration
+2021-07-21 14:32:41,403,INFO,[] Finishing Application...
+
+2021-07-21 14:32:41,404,INFO,[] Application closed
+
+2021-07-21 14:35:40,063,INFO,[] Platform: Windows-10-10.0.19041-SP0
+2021-07-21 14:35:40,063,INFO,[] Path: D:\openQCM\openQCM Next\code\_code_RELEASE\_openQCM_Next_py_0.1.2\openQCM_Next_py_0.1.2_source\openQCM_Next_py_0.1.2_source\OPENQCM
+2021-07-21 14:35:40,063,INFO,[] Python version: 3.7.10
+2021-07-21 14:35:40,072,INFO,[] Application started
+2021-07-21 14:35:40,430,INFO,[] Scanning the source: Calibration
+2021-07-21 14:35:43,382,INFO,[] Finishing Application...
+
+2021-07-21 14:35:43,382,INFO,[] Application closed
+
+2021-07-21 14:37:56,359,INFO,[] Platform: Windows-10-10.0.19041-SP0
+2021-07-21 14:37:56,360,INFO,[] Path: D:\openQCM\openQCM Next\code\_code_RELEASE\_openQCM_Next_py_0.1.2\openQCM_Next_py_0.1.2_source\openQCM_Next_py_0.1.2_source\OPENQCM
+2021-07-21 14:37:56,360,INFO,[] Python version: 3.7.10
+2021-07-21 14:37:56,368,INFO,[] Application started
+2021-07-21 14:37:56,729,INFO,[] Scanning the source: Calibration
+2021-07-21 14:38:05,554,INFO,[] Finishing Application...
+
+2021-07-21 14:38:05,554,INFO,[] Application closed
+
+2021-07-21 14:39:53,193,INFO,[] Platform: Windows-10-10.0.19041-SP0
+2021-07-21 14:39:53,193,INFO,[] Path: D:\openQCM\openQCM Next\code\_code_RELEASE\_openQCM_Next_py_0.1.2\openQCM_Next_py_0.1.2_source\openQCM_Next_py_0.1.2_source\OPENQCM
+2021-07-21 14:39:53,193,INFO,[] Python version: 3.7.10
+2021-07-21 14:39:53,202,INFO,[] Application started
+2021-07-21 14:39:53,559,INFO,[] Scanning the source: Calibration
+2021-07-21 14:39:56,761,INFO,[] Finishing Application...
+
+2021-07-21 14:39:56,761,INFO,[] Application closed
+
+2021-07-21 14:40:06,291,INFO,[] Platform: Windows-10-10.0.19041-SP0
+2021-07-21 14:40:06,291,INFO,[] Path: D:\openQCM\openQCM Next\code\_code_RELEASE\_openQCM_Next_py_0.1.2\openQCM_Next_py_0.1.2_source\openQCM_Next_py_0.1.2_source\OPENQCM
+2021-07-21 14:40:06,291,INFO,[] Python version: 3.7.10
+2021-07-21 14:40:06,300,INFO,[] Application started
+2021-07-21 14:40:06,656,INFO,[] Scanning the source: Calibration
+2021-07-21 14:43:45,265,INFO,[] Finishing Application...
+
+2021-07-21 14:43:45,265,INFO,[] Application closed
+
+2021-07-21 14:44:42,456,INFO,[] Platform: Windows-10-10.0.19041-SP0
+2021-07-21 14:44:42,456,INFO,[] Path: D:\openQCM\openQCM Next\code\_code_RELEASE\_openQCM_Next_py_0.1.2\openQCM_Next_py_0.1.2_source\openQCM_Next_py_0.1.2_source\OPENQCM
+2021-07-21 14:44:42,457,INFO,[] Python version: 3.7.10
+2021-07-21 14:44:42,465,INFO,[] Application started
+2021-07-21 14:44:42,827,INFO,[] Scanning the source: Calibration
+2021-07-21 14:44:48,404,INFO,[] Finishing Application...
+
+2021-07-21 14:44:48,404,INFO,[] Application closed
+
+2021-07-21 15:03:56,845,INFO,[] Platform: Windows-10-10.0.19041-SP0
+2021-07-21 15:03:56,845,INFO,[] Path: D:\openQCM\openQCM Next\code\_code_RELEASE\_openQCM_Next_py_0.1.2\openQCM_Next_py_0.1.2_source\openQCM_Next_py_0.1.2_source\OPENQCM
+2021-07-21 15:03:56,845,INFO,[] Python version: 3.7.10
+2021-07-21 15:03:56,854,INFO,[] Application started
+2021-07-21 15:03:57,219,INFO,[] Scanning the source: Calibration
+2021-07-21 15:04:04,760,INFO,[] Clicked START
+2021-07-21 15:04:26,126,INFO,[] Running processes stopped...
+2021-07-21 15:04:26,127,INFO,[] Processes finished
+2021-07-21 15:04:41,540,INFO,[] Scanning the source: Multiscan Measurement
+2021-07-21 15:04:42,761,INFO,[] Clicked START
+2021-07-21 15:05:19,036,INFO,[] Storing in: logged_data\2021-Jul-21_15-04-43_multi_.csv
+2021-07-21 17:08:33,358,INFO,[] Running processes stopped...
+2021-07-21 17:08:33,360,INFO,[] Processes finished
+2021-07-21 17:08:35,687,INFO,[] Finishing Application...
+
+2021-07-21 17:08:35,687,INFO,[] Application closed
+
+2021-07-21 17:08:43,408,INFO,[] Platform: Windows-10-10.0.19041-SP0
+2021-07-21 17:08:43,408,INFO,[] Path: D:\openQCM\openQCM Next\code\_code_RELEASE\_openQCM_Next_py_0.1.2\openQCM_Next_py_0.1.2_source\openQCM_Next_py_0.1.2_source\OPENQCM
+2021-07-21 17:08:43,408,INFO,[] Python version: 3.7.10
+2021-07-21 17:08:43,420,INFO,[] Application started
+2021-07-21 17:08:44,099,INFO,[] Scanning the source: Calibration
+2021-07-21 17:08:50,282,INFO,[] Scanning the source: Multiscan Measurement
+2021-07-21 17:08:51,343,INFO,[] Clicked START
+2021-07-21 17:09:30,275,INFO,[] Storing in: logged_data\2021-Jul-21_17-08-52_multi_.csv
+2021-07-21 17:11:30,744,INFO,[] Running processes stopped...
+2021-07-21 17:11:30,744,INFO,[] Processes finished
+2021-07-21 17:11:35,132,INFO,[] Finishing Application...
+
+2021-07-21 17:11:35,133,INFO,[] Application closed
+
+2021-07-21 17:11:39,451,INFO,[] Platform: Windows-10-10.0.19041-SP0
+2021-07-21 17:11:39,452,INFO,[] Path: D:\openQCM\openQCM Next\code\_code_RELEASE\_openQCM_Next_py_0.1.2\openQCM_Next_py_0.1.2_source\openQCM_Next_py_0.1.2_source\OPENQCM
+2021-07-21 17:11:39,452,INFO,[] Python version: 3.7.10
+2021-07-21 17:11:39,460,INFO,[] Application started
+2021-07-21 17:11:39,858,INFO,[] Scanning the source: Calibration
+2021-07-21 17:11:46,241,INFO,[] Scanning the source: Multiscan Measurement
+2021-07-21 17:11:47,062,INFO,[] Clicked START
+2021-07-21 17:12:23,686,INFO,[] Storing in: logged_data\2021-Jul-21_17-11-47_multi_.csv
+2021-07-21 17:21:39,582,INFO,[] Running processes stopped...
+2021-07-21 17:21:39,583,INFO,[] Processes finished
+2021-07-21 17:21:43,942,INFO,[] Finishing Application...
+
+2021-07-21 17:21:43,942,INFO,[] Application closed
+
+2021-07-22 11:45:49,910,INFO,[] Platform: Windows-10-10.0.19041-SP0
+2021-07-22 11:45:49,910,INFO,[] Path: D:\openQCM\openQCM Next\code\_code_RELEASE\_openQCM_Next_py_0.1.2\openQCM_Next_py_0.1.2_source\openQCM_Next_py_0.1.2_source\OPENQCM
+2021-07-22 11:45:49,910,INFO,[] Python version: 3.7.10
+2021-07-22 11:45:49,919,INFO,[] Application started
+2021-07-22 11:45:50,368,INFO,[] Scanning the source: Calibration
+2021-07-22 12:17:25,063,INFO,[] Platform: Windows-10-10.0.19041-SP0
+2021-07-22 12:17:25,063,INFO,[] Path: D:\openQCM\openQCM Next\code\_code_RELEASE\_openQCM_Next_py_0.1.2\openQCM_Next_py_0.1.2_source\openQCM_Next_py_0.1.2_source\OPENQCM
+2021-07-22 12:17:25,063,INFO,[] Python version: 3.7.10
+2021-07-22 12:17:25,073,INFO,[] Application started
+2021-07-22 12:17:25,463,INFO,[] Scanning the source: Calibration
+2021-07-22 13:01:50,491,INFO,[] Platform: Windows-10-10.0.19041-SP0
+2021-07-22 13:01:50,491,INFO,[] Path: D:\openQCM\openQCM Next\code\_code_RELEASE\_openQCM_Next_py_0.1.2\openQCM_Next_py_0.1.2_source\openQCM_Next_py_0.1.2_source\OPENQCM
+2021-07-22 13:01:50,491,INFO,[] Python version: 3.7.10
+2021-07-22 13:01:50,501,INFO,[] Application started
+2021-07-22 13:01:50,880,INFO,[] Scanning the source: Calibration
+2021-07-22 13:01:59,272,INFO,[] Finishing Application...
+
+2021-07-22 13:01:59,272,INFO,[] Application closed
+
+2021-07-22 13:04:08,659,INFO,[] Platform: Windows-10-10.0.19041-SP0
+2021-07-22 13:04:08,659,INFO,[] Path: D:\openQCM\openQCM Next\code\_code_RELEASE\_openQCM_Next_py_0.1.2\openQCM_Next_py_0.1.2_source\openQCM_Next_py_0.1.2_source\OPENQCM
+2021-07-22 13:04:08,660,INFO,[] Python version: 3.7.10
+2021-07-22 13:04:08,669,INFO,[] Application started
+2021-07-22 13:04:09,081,INFO,[] Scanning the source: Calibration
+2021-07-22 13:08:35,885,INFO,[] Finishing Application...
+
+2021-07-22 13:08:35,885,INFO,[] Application closed
+
+2021-07-22 13:13:48,889,INFO,[] Platform: Windows-10-10.0.19041-SP0
+2021-07-22 13:13:48,889,INFO,[] Path: D:\openQCM\openQCM Next\code\_code_RELEASE\_openQCM_Next_py_0.1.2\openQCM_Next_py_0.1.2_source\openQCM_Next_py_0.1.2_source\OPENQCM
+2021-07-22 13:13:48,889,INFO,[] Python version: 3.7.10
+2021-07-22 13:13:48,899,INFO,[] Application started
+2021-07-22 13:13:49,277,INFO,[] Scanning the source: Calibration
+2021-07-22 13:13:57,665,INFO,[] Clicked START
+2021-07-22 13:14:19,916,INFO,[] Running processes stopped...
+2021-07-22 13:14:19,916,INFO,[] Processes finished
+2021-07-22 13:14:27,000,INFO,[] Scanning the source: Single Measurement
+2021-07-22 13:14:28,049,INFO,[] Clicked START
+2021-07-22 13:14:37,608,INFO,[] Storing in: logged_data\2021-Jul-22_13-14-28_fundamental.csv
+2021-07-22 13:31:49,056,INFO,[] Running processes stopped...
+2021-07-22 13:31:49,057,INFO,[] Processes finished
+2021-07-22 13:31:51,346,INFO,[] Finishing Application...
+
+2021-07-22 13:31:51,347,INFO,[] Application closed
+
+2021-07-22 13:44:17,131,INFO,[] Finishing Application...
+
+2021-07-22 13:44:17,134,INFO,[] Application closed
+
+2021-07-22 13:46:10,313,INFO,[] Platform: Windows-10-10.0.19041-SP0
+2021-07-22 13:46:10,313,INFO,[] Path: D:\openQCM\openQCM Next\code\_code_RELEASE\_openQCM_Next_py_0.1.2\openQCM_Next_py_0.1.2_source\openQCM_Next_py_0.1.2_source\OPENQCM
+2021-07-22 13:46:10,313,INFO,[] Python version: 3.7.10
+2021-07-22 13:46:10,323,INFO,[] Application started
+2021-07-22 13:46:10,701,INFO,[] Scanning the source: Calibration
+2021-07-22 13:46:41,217,INFO,[] Finishing Application...
+
+2021-07-22 13:46:41,217,INFO,[] Application closed
+
+2021-07-22 13:46:51,823,INFO,[] Platform: Windows-10-10.0.19041-SP0
+2021-07-22 13:46:51,823,INFO,[] Path: D:\openQCM\openQCM Next\code\_code_RELEASE\_openQCM_Next_py_0.1.2\openQCM_Next_py_0.1.2_source\openQCM_Next_py_0.1.2_source\OPENQCM
+2021-07-22 13:46:51,824,INFO,[] Python version: 3.7.10
+2021-07-22 13:46:51,834,INFO,[] Application started
+2021-07-22 13:46:52,219,INFO,[] Scanning the source: Calibration
+2021-07-22 13:47:49,134,INFO,[] Platform: Windows-10-10.0.19041-SP0
+2021-07-22 13:47:49,134,INFO,[] Path: D:\openQCM\openQCM Next\code\_code_RELEASE\_openQCM_Next_py_0.1.2\openQCM_Next_py_0.1.2_source\openQCM_Next_py_0.1.2_source\OPENQCM
+2021-07-22 13:47:49,134,INFO,[] Python version: 3.7.10
+2021-07-22 13:47:49,144,INFO,[] Application started
+2021-07-22 13:47:49,517,INFO,[] Scanning the source: Calibration
+2021-07-22 13:47:53,696,INFO,[] Finishing Application...
+
+2021-07-22 13:47:53,697,INFO,[] Application closed
+
+2021-07-22 13:49:44,116,INFO,[] Platform: Windows-10-10.0.19041-SP0
+2021-07-22 13:49:44,116,INFO,[] Path: D:\openQCM\openQCM Next\code\_code_RELEASE\_openQCM_Next_py_0.1.2\openQCM_Next_py_0.1.2_source\openQCM_Next_py_0.1.2_source\OPENQCM
+2021-07-22 13:49:44,117,INFO,[] Python version: 3.7.10
+2021-07-22 13:49:44,128,INFO,[] Application started
+2021-07-22 13:49:44,505,INFO,[] Scanning the source: Calibration
+2021-07-22 13:57:08,396,INFO,[] Platform: Windows-10-10.0.19041-SP0
+2021-07-22 13:57:08,396,INFO,[] Path: D:\openQCM\openQCM Next\code\_code_RELEASE\_openQCM_Next_py_0.1.2\openQCM_Next_py_0.1.2_source\openQCM_Next_py_0.1.2_source\OPENQCM
+2021-07-22 13:57:08,396,INFO,[] Python version: 3.7.10
+2021-07-22 14:01:42,766,INFO,[] Platform: Windows-10-10.0.19041-SP0
+2021-07-22 14:01:42,767,INFO,[] Path: D:\openQCM\openQCM Next\code\_code_RELEASE\_openQCM_Next_py_0.1.2\openQCM_Next_py_0.1.2_source\openQCM_Next_py_0.1.2_source\OPENQCM
+2021-07-22 14:01:42,767,INFO,[] Python version: 3.7.10
+2021-07-22 14:02:15,516,INFO,[] Platform: Windows-10-10.0.19041-SP0
+2021-07-22 14:02:15,517,INFO,[] Path: D:\openQCM\openQCM Next\code\_code_RELEASE\_openQCM_Next_py_0.1.2\openQCM_Next_py_0.1.2_source\openQCM_Next_py_0.1.2_source\OPENQCM
+2021-07-22 14:02:15,517,INFO,[] Python version: 3.7.10
+2021-07-22 14:11:05,968,INFO,[] Platform: Windows-10-10.0.19041-SP0
+2021-07-22 14:11:05,969,INFO,[] Path: D:\openQCM\openQCM Next\code\_code_RELEASE\_openQCM_Next_py_0.1.2\openQCM_Next_py_0.1.2_source\openQCM_Next_py_0.1.2_source\OPENQCM
+2021-07-22 14:11:05,969,INFO,[] Python version: 3.7.10
+2021-07-22 14:11:05,978,INFO,[] Application started
+2021-07-22 14:11:06,354,INFO,[] Scanning the source: Calibration
+2021-07-22 14:11:09,289,INFO,[] Finishing Application...
+
+2021-07-22 14:11:09,289,INFO,[] Application closed
+
+2021-07-22 14:15:21,710,INFO,[] Platform: Windows-10-10.0.19041-SP0
+2021-07-22 14:15:21,711,INFO,[] Path: D:\openQCM\openQCM Next\code\_code_RELEASE\_openQCM_Next_py_0.1.2\openQCM_Next_py_0.1.2_source\openQCM_Next_py_0.1.2_source\OPENQCM
+2021-07-22 14:15:21,711,INFO,[] Python version: 3.7.10
+2021-07-22 14:15:21,721,INFO,[] Application started
+2021-07-22 14:15:22,095,INFO,[] Scanning the source: Calibration
+2021-07-22 14:15:46,311,INFO,[] Finishing Application...
+
+2021-07-22 14:15:46,311,INFO,[] Application closed
+
+2021-07-22 14:17:46,399,INFO,[] Platform: Windows-10-10.0.19041-SP0
+2021-07-22 14:17:46,399,INFO,[] Path: D:\openQCM\openQCM Next\code\_code_RELEASE\_openQCM_Next_py_0.1.2\openQCM_Next_py_0.1.2_source\openQCM_Next_py_0.1.2_source\OPENQCM
+2021-07-22 14:17:46,399,INFO,[] Python version: 3.7.10
+2021-07-22 14:17:46,408,INFO,[] Application started
+2021-07-22 14:17:46,785,INFO,[] Scanning the source: Calibration
+2021-07-22 14:17:51,517,INFO,[] Finishing Application...
+
+2021-07-22 14:17:51,517,INFO,[] Application closed
+
+2021-07-22 15:20:10,659,INFO,[] Platform: Windows-10-10.0.19041-SP0
+2021-07-22 15:20:10,659,INFO,[] Path: D:\openQCM\openQCM Next\code\_code_RELEASE\_openQCM_Next_py_0.1.2\openQCM_Next_py_0.1.2_source\openQCM_Next_py_0.1.2_source\OPENQCM
+2021-07-22 15:20:10,660,INFO,[] Python version: 3.7.10
+2021-07-22 15:20:10,669,INFO,[] Application started
+2021-07-22 15:20:11,040,INFO,[] Scanning the source: Calibration
+2021-07-22 15:20:22,323,INFO,[] Finishing Application...
+
+2021-07-22 15:20:22,324,INFO,[] Application closed
+
+2021-07-23 13:43:17,224,INFO,[] Platform: Windows-10-10.0.19041-SP0
+2021-07-23 13:43:17,225,INFO,[] Path: D:\openQCM\openQCM Next\code\_code_RELEASE\openQCM_Next_py_0.1.2\openQCM_Next_py_0.1.2_source\OPENQCM
+2021-07-23 13:43:17,225,INFO,[] Python version: 3.7.10
+2021-07-23 13:43:17,234,INFO,[] Application started
+2021-07-23 13:43:17,642,INFO,[] Scanning the source: Calibration
+2021-07-23 13:43:36,719,INFO,[] Platform: Windows-10-10.0.19041-SP0
+2021-07-23 13:43:36,719,INFO,[] Path: D:\openQCM\openQCM Next\code\_code_RELEASE\openQCM_Next_py_0.1.2\openQCM_Next_py_0.1.2_source\OPENQCM
+2021-07-23 13:43:36,719,INFO,[] Python version: 3.7.10
+2021-07-23 13:43:36,728,INFO,[] Application started
+2021-07-23 13:43:37,099,INFO,[] Scanning the source: Calibration
+2021-07-23 13:43:42,122,INFO,[] Scanning the source: Multiscan Measurement
+2021-07-23 13:43:43,148,INFO,[] Clicked START
+2021-07-23 13:43:59,327,INFO,[] Finishing Application...
+
+2021-07-23 13:43:59,328,INFO,[] Application closed
+
+2021-07-23 13:44:23,589,INFO,[] Storing in: logged_data\2021-Jul-23_13-43-43_multi_.csv
+2021-07-23 13:45:57,965,INFO,[] Platform: Windows-10-10.0.19041-SP0
+2021-07-23 13:45:57,965,INFO,[] Path: D:\openQCM\openQCM Next\code\_code_RELEASE\openQCM_Next_py_0.1.2\openQCM_Next_py_0.1.2_source\OPENQCM
+2021-07-23 13:45:57,966,INFO,[] Python version: 3.7.10
+2021-07-23 13:45:57,975,INFO,[] Application started
+2021-07-23 13:45:58,341,INFO,[] Scanning the source: Calibration
+2021-07-23 13:46:03,770,INFO,[] Scanning the source: Multiscan Measurement
+2021-07-23 13:46:04,856,INFO,[] Clicked START
+2021-07-23 13:46:43,403,INFO,[] Storing in: logged_data\2021-Jul-23_13-46-05_multi_.csv
+2021-07-23 13:49:50,143,INFO,[] Running processes stopped...
+2021-07-23 13:49:50,144,INFO,[] Processes finished
+2021-07-23 13:49:52,144,INFO,[] Finishing Application...
+
+2021-07-23 13:49:52,144,INFO,[] Application closed
+
+2021-07-23 14:07:39,185,INFO,[] Platform: Windows-10-10.0.19041-SP0
+2021-07-23 14:07:39,185,INFO,[] Path: D:\openQCM\openQCM Next\code\_code_RELEASE\openQCM_Next_py_0.1.2\openQCM_Next_py_0.1.2_source\OPENQCM
+2021-07-23 14:07:39,185,INFO,[] Python version: 3.7.10
+2021-07-23 14:07:39,196,INFO,[] Application started
+2021-07-23 14:07:39,564,INFO,[] Scanning the source: Calibration
+2021-07-23 14:07:42,818,INFO,[] Scanning the source: Multiscan Measurement
+2021-07-23 14:07:44,768,INFO,[] Clicked START
+2021-07-23 14:08:20,909,INFO,[] Storing in: logged_data\2021-Jul-23_14-07-45_multi_.csv
+2021-07-23 14:09:11,160,INFO,[] Window closed without stopping the capture, application will stop...
+2021-07-23 14:09:12,179,INFO,[] Running processes stopped...
+2021-07-23 14:09:12,180,INFO,[] Processes finished
+2021-07-23 14:09:13,751,INFO,[] Finishing Application...
+
+2021-07-23 14:09:13,752,INFO,[] Application closed
+
+2024-01-17 14:58:35,039,INFO,[] Platform: Windows-10-10.0.22621-SP0
+2024-01-17 14:58:35,039,INFO,[] Path: C:\Users\tguyo\prjmulti\openQCM_Next_py_0.1.2_source\OPENQCM
+2024-01-17 14:58:35,039,INFO,[] Python version: 3.9.12
+2024-01-17 14:58:35,119,INFO,[] Application started
+2024-01-17 14:58:37,170,INFO,[] Scanning the source: Calibration
+2024-01-17 14:58:37,480,INFO,NumExpr defaulting to 8 threads.
+2024-01-17 14:58:59,527,INFO,[] Clicked START
+2024-01-17 14:58:59,554,INFO,[] Warning: Port is not available
+2024-01-17 14:58:59,556,INFO,[] Warning: port is not available
+2024-01-17 14:59:04,678,INFO,[] Finishing Application...
+
+2024-01-17 14:59:04,678,INFO,[] Application closed
+
+2024-01-17 15:13:10,061,INFO,[] Platform: Windows-10-10.0.22621-SP0
+2024-01-17 15:13:10,071,INFO,[] Path: C:\Users\tguyo\anaconda3\python39.zip
+2024-01-17 15:13:10,071,INFO,[] Python version: 3.9.12
+2024-01-17 15:13:10,091,INFO,[] Application started
+2024-01-17 15:13:11,107,INFO,[] Scanning the source: Calibration
+2024-01-17 15:13:23,782,INFO,[] Finishing Application...
+
+2024-01-17 15:13:23,789,INFO,[] Application closed
+
+2024-01-17 15:13:29,497,INFO,[] Platform: Windows-10-10.0.22621-SP0
+2024-01-17 15:13:29,497,INFO,[] Platform: Windows-10-10.0.22621-SP0
+2024-01-17 15:13:29,501,INFO,[] Path: C:\Users\tguyo\anaconda3\python39.zip
+2024-01-17 15:13:29,501,INFO,[] Path: C:\Users\tguyo\anaconda3\python39.zip
+2024-01-17 15:13:29,501,INFO,[] Python version: 3.9.12
+2024-01-17 15:13:29,501,INFO,[] Python version: 3.9.12
+2024-01-17 15:13:29,505,INFO,[] Application started
+2024-01-17 15:13:29,505,INFO,[] Application started
+2024-01-17 15:13:29,636,INFO,[] Scanning the source: Calibration
+2024-01-17 15:13:29,636,INFO,[] Scanning the source: Calibration
+2024-01-17 15:14:17,006,INFO,[] Finishing Application...
+
+2024-01-17 15:14:17,006,INFO,[] Finishing Application...
+
+2024-01-17 15:14:17,011,INFO,[] Application closed
+
+2024-01-17 15:14:17,011,INFO,[] Application closed
+
+2024-01-17 15:15:56,786,INFO,[] Platform: Windows-10-10.0.22621-SP0
+2024-01-17 15:15:56,786,INFO,[] Platform: Windows-10-10.0.22621-SP0
+2024-01-17 15:15:56,788,INFO,[] Path: C:\Users\tguyo\anaconda3\python39.zip
+2024-01-17 15:15:56,788,INFO,[] Path: C:\Users\tguyo\anaconda3\python39.zip
+2024-01-17 15:15:56,788,INFO,[] Python version: 3.9.12
+2024-01-17 15:15:56,788,INFO,[] Python version: 3.9.12
+2024-01-17 15:15:56,796,INFO,[] Application started
+2024-01-17 15:15:56,796,INFO,[] Application started
+2024-01-17 15:15:56,937,INFO,[] Scanning the source: Calibration
+2024-01-17 15:15:56,937,INFO,[] Scanning the source: Calibration
+2024-01-17 15:16:06,035,INFO,[] Finishing Application...
+
+2024-01-17 15:16:06,035,INFO,[] Finishing Application...
+
+2024-01-17 15:16:06,037,INFO,[] Application closed
+
+2024-01-17 15:16:06,037,INFO,[] Application closed
+
+2024-01-17 16:05:32,331,INFO,[] Platform: Windows-10-10.0.22621-SP0
+2024-01-17 16:05:32,331,INFO,[] Platform: Windows-10-10.0.22621-SP0
+2024-01-17 16:05:32,331,INFO,[] Platform: Windows-10-10.0.22621-SP0
+2024-01-17 16:05:32,334,INFO,[] Path: C:\Users\tguyo\anaconda3\python39.zip
+2024-01-17 16:05:32,334,INFO,[] Path: C:\Users\tguyo\anaconda3\python39.zip
+2024-01-17 16:05:32,334,INFO,[] Path: C:\Users\tguyo\anaconda3\python39.zip
+2024-01-17 16:05:32,335,INFO,[] Python version: 3.9.12
+2024-01-17 16:05:32,335,INFO,[] Python version: 3.9.12
+2024-01-17 16:05:32,335,INFO,[] Python version: 3.9.12
+2024-01-17 16:05:32,339,INFO,[] Application started
+2024-01-17 16:05:32,339,INFO,[] Application started
+2024-01-17 16:05:32,339,INFO,[] Application started
+2024-01-17 16:19:21,064,INFO,[] Platform: Windows-10-10.0.22621-SP0
+2024-01-17 16:19:21,064,INFO,[] Platform: Windows-10-10.0.22621-SP0
+2024-01-17 16:19:21,064,INFO,[] Platform: Windows-10-10.0.22621-SP0
+2024-01-17 16:19:21,064,INFO,[] Platform: Windows-10-10.0.22621-SP0
+2024-01-17 16:19:21,064,INFO,[] Path: C:\Users\tguyo\anaconda3\python39.zip
+2024-01-17 16:19:21,064,INFO,[] Path: C:\Users\tguyo\anaconda3\python39.zip
+2024-01-17 16:19:21,064,INFO,[] Path: C:\Users\tguyo\anaconda3\python39.zip
+2024-01-17 16:19:21,064,INFO,[] Path: C:\Users\tguyo\anaconda3\python39.zip
+2024-01-17 16:19:21,064,INFO,[] Python version: 3.9.12
+2024-01-17 16:19:21,064,INFO,[] Python version: 3.9.12
+2024-01-17 16:19:21,064,INFO,[] Python version: 3.9.12
+2024-01-17 16:19:21,064,INFO,[] Python version: 3.9.12
+2024-01-17 16:19:21,071,INFO,[] Application started
+2024-01-17 16:19:21,071,INFO,[] Application started
+2024-01-17 16:19:21,071,INFO,[] Application started
+2024-01-17 16:19:21,071,INFO,[] Application started
+2024-01-17 16:19:21,131,INFO,[] Scanning the source: Calibration
+2024-01-17 16:19:21,131,INFO,[] Scanning the source: Calibration
+2024-01-17 16:19:21,131,INFO,[] Scanning the source: Calibration
+2024-01-17 16:19:21,131,INFO,[] Scanning the source: Calibration
+2024-01-17 16:22:31,959,INFO,[] Scanning the source: Single Measurement
+2024-01-17 16:22:31,959,INFO,[] Scanning the source: Single Measurement
+2024-01-17 16:22:31,959,INFO,[] Scanning the source: Single Measurement
+2024-01-17 16:22:31,959,INFO,[] Scanning the source: Single Measurement
+2024-01-17 16:22:33,885,INFO,[] Scanning the source: Calibration
+2024-01-17 16:22:33,885,INFO,[] Scanning the source: Calibration
+2024-01-17 16:22:33,885,INFO,[] Scanning the source: Calibration
+2024-01-17 16:22:33,885,INFO,[] Scanning the source: Calibration
+2024-01-17 16:22:36,287,INFO,[] Scanning the source: Single Measurement
+2024-01-17 16:22:36,287,INFO,[] Scanning the source: Single Measurement
+2024-01-17 16:22:36,287,INFO,[] Scanning the source: Single Measurement
+2024-01-17 16:22:36,287,INFO,[] Scanning the source: Single Measurement
+2024-01-17 16:22:47,670,INFO,[] Scanning the source: Multiscan Measurement
+2024-01-17 16:22:47,670,INFO,[] Scanning the source: Multiscan Measurement
+2024-01-17 16:22:47,670,INFO,[] Scanning the source: Multiscan Measurement
+2024-01-17 16:22:47,670,INFO,[] Scanning the source: Multiscan Measurement
+2024-01-17 16:22:52,619,INFO,[] Scanning the source: Single Measurement
+2024-01-17 16:22:52,619,INFO,[] Scanning the source: Single Measurement
+2024-01-17 16:22:52,619,INFO,[] Scanning the source: Single Measurement
+2024-01-17 16:22:52,619,INFO,[] Scanning the source: Single Measurement
+2024-01-17 16:22:54,108,INFO,[] Scanning the source: Calibration
+2024-01-17 16:22:54,108,INFO,[] Scanning the source: Calibration
+2024-01-17 16:22:54,108,INFO,[] Scanning the source: Calibration
+2024-01-17 16:22:54,108,INFO,[] Scanning the source: Calibration
+2024-01-17 16:23:08,992,INFO,[] Finishing Application...
+
+2024-01-17 16:23:08,992,INFO,[] Finishing Application...
+
+2024-01-17 16:23:08,992,INFO,[] Finishing Application...
+
+2024-01-17 16:23:08,992,INFO,[] Finishing Application...
+
+2024-01-17 16:23:08,994,INFO,[] Application closed
+
+2024-01-17 16:23:08,994,INFO,[] Application closed
+
+2024-01-17 16:23:08,994,INFO,[] Application closed
+
+2024-01-17 16:23:08,994,INFO,[] Application closed
+
+2024-01-17 16:40:39,750,INFO,[] Platform: Windows-10-10.0.22621-SP0
+2024-01-17 16:40:39,750,INFO,[] Path: C:\Users\tguyo\anaconda3\python39.zip
+2024-01-17 16:40:39,750,INFO,[] Python version: 3.9.12
+2024-01-17 16:40:39,771,INFO,[] Application started
+2024-01-17 16:40:41,443,INFO,[] Scanning the source: Calibration
+2024-01-17 16:41:05,356,INFO,[] Clicked START
+2024-01-17 16:41:28,046,INFO,[] Running processes stopped...
+2024-01-17 16:41:28,046,INFO,[] Processes finished
+2024-01-17 16:41:32,314,INFO,[] Scanning the source: Single Measurement
+2024-01-17 16:41:34,239,INFO,[] Clicked START
+2024-01-17 16:41:47,883,INFO,[] Storing in: logged_data\2024-Jan-17_16-41-34_fundamental.csv
+2024-01-17 16:42:36,926,INFO,[] Running processes stopped...
+2024-01-17 16:42:36,934,INFO,[] Processes finished
+2024-01-17 16:42:52,177,INFO,[] Scanning the source: Multiscan Measurement
+2024-01-17 16:42:54,105,INFO,[] Clicked START
+2024-01-17 16:43:31,408,INFO,[] Storing in: logged_data\2024-Jan-17_16-42-57_multi_.csv
+2024-01-17 16:44:14,079,INFO,[] Running processes stopped...
+2024-01-17 16:44:14,080,INFO,[] Processes finished
+2024-01-17 16:44:22,550,INFO,[] Scanning the source: Calibration
+2024-01-17 16:44:24,610,INFO,[] Clicked START
+2024-01-17 16:44:48,297,INFO,[] Running processes stopped...
+2024-01-17 16:44:48,301,INFO,[] Processes finished
+2024-01-17 16:44:48,335,INFO,[] Running processes stopped...
+2024-01-17 16:44:48,347,INFO,[] Processes finished
+2024-01-17 16:44:48,366,INFO,[] Running processes stopped...
+2024-01-17 16:44:48,374,INFO,[] Processes finished
+2024-01-17 16:44:48,376,INFO,[] Running processes stopped...
+2024-01-17 16:44:48,386,INFO,[] Processes finished
+2024-01-17 16:44:53,491,INFO,[] Finishing Application...
+
+2024-01-17 16:44:53,491,INFO,[] Application closed
+
+2024-01-19 13:54:18,720,INFO,[] Platform: Windows-10-10.0.22621-SP0
+2024-01-19 13:54:18,728,INFO,[] Path: C:\Users\tguyo\anaconda3\python39.zip
+2024-01-19 13:54:18,731,INFO,[] Python version: 3.9.12
+2024-01-19 13:54:18,751,INFO,[] Application started
+2024-01-19 13:54:20,485,INFO,[] Scanning the source: Calibration
+2024-01-19 13:54:27,212,INFO,[] Finishing Application...
+
+2024-01-19 13:54:27,214,INFO,[] Application closed
+
+2024-01-19 13:57:57,328,INFO,[] Platform: Windows-10-10.0.22621-SP0
+2024-01-19 13:57:57,350,INFO,[] Path: C:\Users\tguyo\anaconda3\python39.zip
+2024-01-19 13:57:57,350,INFO,[] Python version: 3.9.12
+2024-01-19 13:57:57,358,INFO,[] Application started
+2024-01-19 13:57:57,730,INFO,[] Scanning the source: Calibration
+2024-01-19 13:58:01,158,INFO,attempting to load dll: twaindsm.dll
+2024-01-19 13:58:02,230,INFO,DSM initialized
+2024-01-19 13:58:02,231,INFO,opening data source with id 0
+2024-01-19 13:58:14,340,INFO,attempting to load dll: twaindsm.dll
+2024-01-19 13:58:39,493,INFO,[] Finishing Application...
+
+2024-01-19 13:58:39,495,INFO,[] Application closed
+
+2024-01-19 13:59:25,832,INFO,attempting to load dll: twaindsm.dll
+2024-01-19 13:59:25,836,INFO,DSM initialized
+2024-01-19 13:59:25,838,INFO,opening data source with id 0
+2024-01-19 13:59:52,628,INFO,attempting to load dll: twaindsm.dll
+2024-01-19 13:59:52,628,INFO,DSM initialized
+2024-01-19 13:59:52,628,INFO,opening data source with id 0
+2024-01-19 14:00:15,192,INFO,closing data source with id 1
+2024-01-19 14:18:40,805,INFO,[] Platform: Windows-10-10.0.22621-SP0
+2024-01-19 14:18:40,805,INFO,[] Path: C:\Users\tguyo\anaconda3\python39.zip
+2024-01-19 14:18:40,805,INFO,[] Python version: 3.9.12
+2024-01-19 14:18:40,815,INFO,[] Application started
+2024-01-19 14:18:41,375,INFO,[] Scanning the source: Calibration
+2024-01-19 14:19:00,706,INFO,[] Clicked START
+2024-01-19 14:19:18,141,INFO,[] Running processes stopped...
+2024-01-19 14:19:18,142,INFO,[] Processes finished
+2024-01-19 14:19:20,509,INFO,[] Clicked START
+2024-01-19 14:19:41,881,INFO,[] Running processes stopped...
+2024-01-19 14:19:41,884,INFO,[] Processes finished
+2024-01-19 14:19:41,902,INFO,[] Running processes stopped...
+2024-01-19 14:19:41,909,INFO,[] Processes finished
+2024-01-19 14:40:56,807,INFO,[] Clicked START
+2024-01-19 14:41:13,290,INFO,[] Running processes stopped...
+2024-01-19 14:41:13,290,INFO,[] Processes finished
+2024-01-19 14:41:13,332,INFO,[] Running processes stopped...
+2024-01-19 14:41:13,334,INFO,[] Processes finished
+2024-01-19 14:41:13,341,INFO,[] Running processes stopped...
+2024-01-19 14:41:13,341,INFO,[] Processes finished
+2024-01-19 14:41:17,300,INFO,[] Clicked START
+2024-01-19 14:41:34,156,INFO,[] Running processes stopped...
+2024-01-19 14:41:34,156,INFO,[] Processes finished
+2024-01-19 14:41:34,176,INFO,[] Running processes stopped...
+2024-01-19 14:41:34,176,INFO,[] Processes finished
+2024-01-19 14:41:34,188,INFO,[] Running processes stopped...
+2024-01-19 14:41:34,188,INFO,[] Processes finished
+2024-01-19 14:41:34,197,INFO,[] Running processes stopped...
+2024-01-19 14:41:34,197,INFO,[] Processes finished
+2024-01-19 14:41:54,696,INFO,[] Clicked START
+2024-01-19 14:42:11,319,INFO,[] Running processes stopped...
+2024-01-19 14:42:11,319,INFO,[] Processes finished
+2024-01-19 14:42:11,359,INFO,[] Running processes stopped...
+2024-01-19 14:42:11,359,INFO,[] Processes finished
+2024-01-19 14:42:11,369,INFO,[] Running processes stopped...
+2024-01-19 14:42:11,369,INFO,[] Processes finished
+2024-01-19 14:42:11,379,INFO,[] Running processes stopped...
+2024-01-19 14:42:11,379,INFO,[] Processes finished
+2024-01-19 14:42:11,389,INFO,[] Running processes stopped...
+2024-01-19 14:42:11,389,INFO,[] Processes finished
+2024-01-19 14:42:26,937,INFO,[] Scanning the source: Single Measurement
+2024-01-19 14:42:29,062,INFO,[] Clicked START
+2024-01-19 14:42:39,627,INFO,[] Storing in: logged_data\2024-Jan-19_14-42-29_fundamental.csv
+2024-01-19 14:49:51,303,INFO,[] Running processes stopped...
+2024-01-19 14:49:51,308,INFO,[] Processes finished
+2024-01-19 14:50:00,051,INFO,[] Scanning the source: Calibration
+2024-01-19 14:50:02,102,INFO,[] Clicked START
+2024-01-19 14:50:19,696,INFO,[] Running processes stopped...
+2024-01-19 14:50:19,698,INFO,[] Processes finished
+2024-01-19 14:50:19,717,INFO,[] Running processes stopped...
+2024-01-19 14:50:19,720,INFO,[] Processes finished
+2024-01-19 14:50:19,736,INFO,[] Running processes stopped...
+2024-01-19 14:50:19,738,INFO,[] Processes finished
+2024-01-19 14:50:19,747,INFO,[] Running processes stopped...
+2024-01-19 14:50:19,748,INFO,[] Processes finished
+2024-01-19 14:50:19,757,INFO,[] Running processes stopped...
+2024-01-19 14:50:19,758,INFO,[] Processes finished
+2024-01-19 14:50:19,765,INFO,[] Running processes stopped...
+2024-01-19 14:50:19,766,INFO,[] Processes finished
+2024-01-19 14:50:19,773,INFO,[] Running processes stopped...
+2024-01-19 14:50:19,774,INFO,[] Processes finished
+2024-01-19 14:50:24,895,INFO,[] Scanning the source: Multiscan Measurement
+2024-01-19 14:50:26,541,INFO,[] Clicked START
+2024-01-19 14:50:53,571,INFO,[] Storing in: logged_data\2024-Jan-19_14-50-28_multi_.csv
+2024-01-19 15:02:17,207,INFO,[] Running processes stopped...
+2024-01-19 15:02:17,209,INFO,[] Processes finished
+2024-01-19 15:02:24,839,INFO,[] Finishing Application...
+
+2024-01-19 15:02:24,840,INFO,[] Application closed
+
+2024-02-01 17:00:36,868,INFO,[] Platform: Windows-10-10.0.22631-SP0
+2024-02-01 17:00:36,873,INFO,[] Path: C:\Users\tguyo\anaconda3\python39.zip
+2024-02-01 17:00:36,873,INFO,[] Python version: 3.9.12
+2024-02-01 17:00:36,889,INFO,[] Application started
+2024-02-01 17:01:00,645,INFO,[] Platform: Windows-10-10.0.22631-SP0
+2024-02-01 17:01:00,645,INFO,[] Platform: Windows-10-10.0.22631-SP0
+2024-02-01 17:01:00,645,INFO,[] Path: C:\Users\tguyo\anaconda3\python39.zip
+2024-02-01 17:01:00,645,INFO,[] Path: C:\Users\tguyo\anaconda3\python39.zip
+2024-02-01 17:01:00,655,INFO,[] Python version: 3.9.12
+2024-02-01 17:01:00,655,INFO,[] Python version: 3.9.12
+2024-02-01 17:01:00,655,INFO,[] Application started
+2024-02-01 17:01:00,655,INFO,[] Application started
+2024-02-01 17:04:14,856,INFO,[] Platform: Windows-10-10.0.22631-SP0
+2024-02-01 17:04:14,856,INFO,[] Platform: Windows-10-10.0.22631-SP0
+2024-02-01 17:04:14,856,INFO,[] Platform: Windows-10-10.0.22631-SP0
+2024-02-01 17:04:14,856,INFO,[] Path: C:\Users\tguyo\anaconda3\python39.zip
+2024-02-01 17:04:14,856,INFO,[] Path: C:\Users\tguyo\anaconda3\python39.zip
+2024-02-01 17:04:14,856,INFO,[] Path: C:\Users\tguyo\anaconda3\python39.zip
+2024-02-01 17:04:14,863,INFO,[] Python version: 3.9.12
+2024-02-01 17:04:14,863,INFO,[] Python version: 3.9.12
+2024-02-01 17:04:14,863,INFO,[] Python version: 3.9.12
+2024-02-01 17:04:14,866,INFO,[] Application started
+2024-02-01 17:04:14,866,INFO,[] Application started
+2024-02-01 17:04:14,866,INFO,[] Application started
+2024-02-01 17:05:11,579,INFO,[] Platform: Windows-10-10.0.22631-SP0
+2024-02-01 17:05:11,579,INFO,[] Platform: Windows-10-10.0.22631-SP0
+2024-02-01 17:05:11,579,INFO,[] Platform: Windows-10-10.0.22631-SP0
+2024-02-01 17:05:11,579,INFO,[] Platform: Windows-10-10.0.22631-SP0
+2024-02-01 17:05:11,590,INFO,[] Path: C:\Users\tguyo\anaconda3\python39.zip
+2024-02-01 17:05:11,590,INFO,[] Path: C:\Users\tguyo\anaconda3\python39.zip
+2024-02-01 17:05:11,590,INFO,[] Path: C:\Users\tguyo\anaconda3\python39.zip
+2024-02-01 17:05:11,590,INFO,[] Path: C:\Users\tguyo\anaconda3\python39.zip
+2024-02-01 17:05:11,590,INFO,[] Python version: 3.9.12
+2024-02-01 17:05:11,590,INFO,[] Python version: 3.9.12
+2024-02-01 17:05:11,590,INFO,[] Python version: 3.9.12
+2024-02-01 17:05:11,590,INFO,[] Python version: 3.9.12
+2024-02-01 17:05:11,596,INFO,[] Application started
+2024-02-01 17:05:11,596,INFO,[] Application started
+2024-02-01 17:05:11,596,INFO,[] Application started
+2024-02-01 17:05:11,596,INFO,[] Application started
+2024-02-01 17:05:58,283,INFO,[] Platform: Windows-10-10.0.22631-SP0
+2024-02-01 17:05:58,283,INFO,[] Platform: Windows-10-10.0.22631-SP0
+2024-02-01 17:05:58,283,INFO,[] Platform: Windows-10-10.0.22631-SP0
+2024-02-01 17:05:58,283,INFO,[] Platform: Windows-10-10.0.22631-SP0
+2024-02-01 17:05:58,283,INFO,[] Platform: Windows-10-10.0.22631-SP0
+2024-02-01 17:05:58,287,INFO,[] Path: C:\Users\tguyo\anaconda3\python39.zip
+2024-02-01 17:05:58,287,INFO,[] Path: C:\Users\tguyo\anaconda3\python39.zip
+2024-02-01 17:05:58,287,INFO,[] Path: C:\Users\tguyo\anaconda3\python39.zip
+2024-02-01 17:05:58,287,INFO,[] Path: C:\Users\tguyo\anaconda3\python39.zip
+2024-02-01 17:05:58,287,INFO,[] Path: C:\Users\tguyo\anaconda3\python39.zip
+2024-02-01 17:05:58,288,INFO,[] Python version: 3.9.12
+2024-02-01 17:05:58,288,INFO,[] Python version: 3.9.12
+2024-02-01 17:05:58,288,INFO,[] Python version: 3.9.12
+2024-02-01 17:05:58,288,INFO,[] Python version: 3.9.12
+2024-02-01 17:05:58,288,INFO,[] Python version: 3.9.12
+2024-02-01 17:05:58,291,INFO,[] Application started
+2024-02-01 17:05:58,291,INFO,[] Application started
+2024-02-01 17:05:58,291,INFO,[] Application started
+2024-02-01 17:05:58,291,INFO,[] Application started
+2024-02-01 17:05:58,291,INFO,[] Application started
+2024-02-01 17:06:24,450,INFO,[] Platform: Windows-10-10.0.22631-SP0
+2024-02-01 17:06:24,450,INFO,[] Platform: Windows-10-10.0.22631-SP0
+2024-02-01 17:06:24,450,INFO,[] Platform: Windows-10-10.0.22631-SP0
+2024-02-01 17:06:24,450,INFO,[] Platform: Windows-10-10.0.22631-SP0
+2024-02-01 17:06:24,450,INFO,[] Platform: Windows-10-10.0.22631-SP0
+2024-02-01 17:06:24,450,INFO,[] Platform: Windows-10-10.0.22631-SP0
+2024-02-01 17:06:24,461,INFO,[] Path: C:\Users\tguyo\anaconda3\python39.zip
+2024-02-01 17:06:24,461,INFO,[] Path: C:\Users\tguyo\anaconda3\python39.zip
+2024-02-01 17:06:24,461,INFO,[] Path: C:\Users\tguyo\anaconda3\python39.zip
+2024-02-01 17:06:24,461,INFO,[] Path: C:\Users\tguyo\anaconda3\python39.zip
+2024-02-01 17:06:24,461,INFO,[] Path: C:\Users\tguyo\anaconda3\python39.zip
+2024-02-01 17:06:24,461,INFO,[] Path: C:\Users\tguyo\anaconda3\python39.zip
+2024-02-01 17:06:24,461,INFO,[] Python version: 3.9.12
+2024-02-01 17:06:24,461,INFO,[] Python version: 3.9.12
+2024-02-01 17:06:24,461,INFO,[] Python version: 3.9.12
+2024-02-01 17:06:24,461,INFO,[] Python version: 3.9.12
+2024-02-01 17:06:24,461,INFO,[] Python version: 3.9.12
+2024-02-01 17:06:24,461,INFO,[] Python version: 3.9.12
+2024-02-01 17:06:24,461,INFO,[] Application started
+2024-02-01 17:06:24,461,INFO,[] Application started
+2024-02-01 17:06:24,461,INFO,[] Application started
+2024-02-01 17:06:24,461,INFO,[] Application started
+2024-02-01 17:06:24,461,INFO,[] Application started
+2024-02-01 17:06:24,461,INFO,[] Application started
+2024-02-01 17:06:24,530,INFO,[] Scanning the source: Calibration
+2024-02-01 17:06:24,530,INFO,[] Scanning the source: Calibration
+2024-02-01 17:06:24,530,INFO,[] Scanning the source: Calibration
+2024-02-01 17:06:24,530,INFO,[] Scanning the source: Calibration
+2024-02-01 17:06:24,530,INFO,[] Scanning the source: Calibration
+2024-02-01 17:06:24,530,INFO,[] Scanning the source: Calibration
+2024-02-01 17:06:44,903,INFO,[] Finishing Application...
+
+2024-02-01 17:06:44,903,INFO,[] Finishing Application...
+
+2024-02-01 17:06:44,903,INFO,[] Finishing Application...
+
+2024-02-01 17:06:44,903,INFO,[] Finishing Application...
+
+2024-02-01 17:06:44,903,INFO,[] Finishing Application...
+
+2024-02-01 17:06:44,903,INFO,[] Finishing Application...
+
+2024-02-01 17:06:44,925,INFO,[] Application closed
+
+2024-02-01 17:06:44,925,INFO,[] Application closed
+
+2024-02-01 17:06:44,925,INFO,[] Application closed
+
+2024-02-01 17:06:44,925,INFO,[] Application closed
+
+2024-02-01 17:06:44,925,INFO,[] Application closed
+
+2024-02-01 17:06:44,925,INFO,[] Application closed
+
+2024-02-02 10:57:30,438,INFO,[] Platform: Windows-10-10.0.22631-SP0
+2024-02-02 10:57:30,441,INFO,[] Path: C:\Users\tguyo\anaconda3\python39.zip
+2024-02-02 10:57:30,441,INFO,[] Python version: 3.9.12
+2024-02-02 10:57:30,463,INFO,[] Application started
+2024-02-02 10:57:32,150,INFO,[] Scanning the source: Calibration
+2024-02-02 11:00:26,599,INFO,[] Clicked START
+2024-02-02 11:00:50,172,INFO,[] Running processes stopped...
+2024-02-02 11:00:50,172,INFO,[] Processes finished
+2024-02-02 11:00:55,374,INFO,[] Clicked START
+2024-02-02 11:01:18,681,INFO,[] Running processes stopped...
+2024-02-02 11:01:18,683,INFO,[] Processes finished
+2024-02-02 11:01:18,690,INFO,[] Running processes stopped...
+2024-02-02 11:01:18,690,INFO,[] Processes finished
+2024-02-02 11:01:22,502,INFO,[] Scanning the source: Single Measurement
+2024-02-02 11:01:31,286,INFO,[] Clicked START
+2024-02-02 11:01:44,019,INFO,[] Storing in: logged_data\2024-Feb-02_11-01-31_fundamental.csv
+2024-02-02 11:03:48,466,INFO,[] Window closed without stopping the capture, application will stop...
+2024-02-02 11:03:49,489,INFO,[] Running processes stopped...
+2024-02-02 11:03:49,489,INFO,[] Processes finished
+2024-02-02 11:03:51,271,INFO,[] Finishing Application...
+
+2024-02-02 11:03:51,272,INFO,[] Application closed
+
+2024-02-02 11:04:32,037,INFO,[] Platform: Windows-10-10.0.22631-SP0
+2024-02-02 11:04:32,037,INFO,[] Platform: Windows-10-10.0.22631-SP0
+2024-02-02 11:04:32,037,INFO,[] Path: C:\Users\tguyo\anaconda3\python39.zip
+2024-02-02 11:04:32,037,INFO,[] Path: C:\Users\tguyo\anaconda3\python39.zip
+2024-02-02 11:04:32,037,INFO,[] Python version: 3.9.12
+2024-02-02 11:04:32,037,INFO,[] Python version: 3.9.12
+2024-02-02 11:04:32,041,INFO,[] Application started
+2024-02-02 11:04:32,041,INFO,[] Application started
+2024-02-02 11:05:04,365,INFO,[] Platform: Windows-10-10.0.22631-SP0
+2024-02-02 11:05:04,365,INFO,[] Platform: Windows-10-10.0.22631-SP0
+2024-02-02 11:05:04,365,INFO,[] Platform: Windows-10-10.0.22631-SP0
+2024-02-02 11:05:04,365,INFO,[] Path: C:\Users\tguyo\anaconda3\python39.zip
+2024-02-02 11:05:04,365,INFO,[] Path: C:\Users\tguyo\anaconda3\python39.zip
+2024-02-02 11:05:04,365,INFO,[] Path: C:\Users\tguyo\anaconda3\python39.zip
+2024-02-02 11:05:04,365,INFO,[] Python version: 3.9.12
+2024-02-02 11:05:04,365,INFO,[] Python version: 3.9.12
+2024-02-02 11:05:04,365,INFO,[] Python version: 3.9.12
+2024-02-02 11:05:04,375,INFO,[] Application started
+2024-02-02 11:05:04,375,INFO,[] Application started
+2024-02-02 11:05:04,375,INFO,[] Application started
+2024-02-02 11:05:04,446,INFO,[] Scanning the source: Calibration
+2024-02-02 11:05:04,446,INFO,[] Scanning the source: Calibration
+2024-02-02 11:05:04,446,INFO,[] Scanning the source: Calibration
+2024-02-02 11:05:12,978,INFO,[] Scanning the source: Single Measurement
+2024-02-02 11:05:12,978,INFO,[] Scanning the source: Single Measurement
+2024-02-02 11:05:12,978,INFO,[] Scanning the source: Single Measurement
+2024-02-02 11:05:15,537,INFO,[] Clicked START
+2024-02-02 11:05:15,537,INFO,[] Clicked START
+2024-02-02 11:05:15,537,INFO,[] Clicked START
+2024-02-02 11:05:28,442,INFO,[] Storing in: logged_data\2024-Feb-02_11-05-15_fundamental.csv
+2024-02-02 11:05:28,442,INFO,[] Storing in: logged_data\2024-Feb-02_11-05-15_fundamental.csv
+2024-02-02 11:05:28,442,INFO,[] Storing in: logged_data\2024-Feb-02_11-05-15_fundamental.csv
+2024-02-02 11:07:20,934,INFO,[] Window closed without stopping the capture, application will stop...
+2024-02-02 11:07:20,934,INFO,[] Window closed without stopping the capture, application will stop...
+2024-02-02 11:07:20,934,INFO,[] Window closed without stopping the capture, application will stop...
+2024-02-02 11:07:21,950,INFO,[] Running processes stopped...
+2024-02-02 11:07:21,950,INFO,[] Running processes stopped...
+2024-02-02 11:07:21,950,INFO,[] Running processes stopped...
+2024-02-02 11:07:21,951,INFO,[] Processes finished
+2024-02-02 11:07:21,951,INFO,[] Processes finished
+2024-02-02 11:07:21,951,INFO,[] Processes finished
+2024-02-02 11:07:23,531,INFO,[] Finishing Application...
+
+2024-02-02 11:07:23,531,INFO,[] Finishing Application...
+
+2024-02-02 11:07:23,531,INFO,[] Finishing Application...
+
+2024-02-02 11:07:23,546,INFO,[] Application closed
+
+2024-02-02 11:07:23,546,INFO,[] Application closed
+
+2024-02-02 11:07:23,546,INFO,[] Application closed
+
+2024-02-02 11:07:26,212,INFO,[] Platform: Windows-10-10.0.22631-SP0
+2024-02-02 11:07:26,212,INFO,[] Platform: Windows-10-10.0.22631-SP0
+2024-02-02 11:07:26,212,INFO,[] Platform: Windows-10-10.0.22631-SP0
+2024-02-02 11:07:26,212,INFO,[] Platform: Windows-10-10.0.22631-SP0
+2024-02-02 11:07:26,215,INFO,[] Path: C:\Users\tguyo\anaconda3\python39.zip
+2024-02-02 11:07:26,215,INFO,[] Path: C:\Users\tguyo\anaconda3\python39.zip
+2024-02-02 11:07:26,215,INFO,[] Path: C:\Users\tguyo\anaconda3\python39.zip
+2024-02-02 11:07:26,215,INFO,[] Path: C:\Users\tguyo\anaconda3\python39.zip
+2024-02-02 11:07:26,216,INFO,[] Python version: 3.9.12
+2024-02-02 11:07:26,216,INFO,[] Python version: 3.9.12
+2024-02-02 11:07:26,216,INFO,[] Python version: 3.9.12
+2024-02-02 11:07:26,216,INFO,[] Python version: 3.9.12
+2024-02-02 11:07:26,221,INFO,[] Application started
+2024-02-02 11:07:26,221,INFO,[] Application started
+2024-02-02 11:07:26,221,INFO,[] Application started
+2024-02-02 11:07:26,221,INFO,[] Application started
+2024-02-02 11:07:26,358,INFO,[] Scanning the source: Calibration
+2024-02-02 11:07:26,358,INFO,[] Scanning the source: Calibration
+2024-02-02 11:07:26,358,INFO,[] Scanning the source: Calibration
+2024-02-02 11:07:26,358,INFO,[] Scanning the source: Calibration
+2024-02-02 11:07:48,846,INFO,[] Finishing Application...
+
+2024-02-02 11:07:48,846,INFO,[] Finishing Application...
+
+2024-02-02 11:07:48,846,INFO,[] Finishing Application...
+
+2024-02-02 11:07:48,846,INFO,[] Finishing Application...
+
+2024-02-02 11:07:48,848,INFO,[] Application closed
+
+2024-02-02 11:07:48,848,INFO,[] Application closed
+
+2024-02-02 11:07:48,848,INFO,[] Application closed
+
+2024-02-02 11:07:48,848,INFO,[] Application closed
+
+2024-02-07 16:10:41,826,INFO,[] Platform: Windows-10-10.0.22631-SP0
+2024-02-07 16:10:41,826,INFO,[] Path: C:\Users\tguyo\anaconda3\python39.zip
+2024-02-07 16:10:41,826,INFO,[] Python version: 3.9.12
+2024-02-07 16:10:41,846,INFO,[] Application started
+2024-02-07 16:10:43,361,INFO,[] Scanning the source: Calibration
+2024-02-07 16:11:08,933,INFO,[] Clicked START
+2024-02-07 16:11:42,128,INFO,[] Running processes stopped...
+2024-02-07 16:11:42,132,INFO,[] Processes finished
+2024-02-07 16:11:52,076,INFO,[] Clicked START
+2024-02-07 16:12:26,296,INFO,[] Running processes stopped...
+2024-02-07 16:12:26,303,INFO,[] Processes finished
+2024-02-07 16:12:26,316,INFO,[] Running processes stopped...
+2024-02-07 16:12:26,322,INFO,[] Processes finished
+2024-02-07 16:12:35,538,INFO,[] Clicked START
+2024-02-07 16:13:10,958,INFO,[] Running processes stopped...
+2024-02-07 16:13:10,958,INFO,[] Processes finished
+2024-02-07 16:13:10,968,INFO,[] Running processes stopped...
+2024-02-07 16:13:10,969,INFO,[] Processes finished
+2024-02-07 16:13:10,975,INFO,[] Running processes stopped...
+2024-02-07 16:13:10,978,INFO,[] Processes finished
+2024-02-07 16:13:17,458,INFO,[] Scanning the source: Single Measurement
+2024-02-07 16:13:22,820,INFO,[] Clicked START
+2024-02-07 16:13:37,796,INFO,[] Storing in: logged_data\2024-Feb-07_16-13-23_fundamental.csv
+2024-02-07 16:15:19,849,INFO,[] Running processes stopped...
+2024-02-07 16:15:19,851,INFO,[] Processes finished
+2024-02-07 16:15:24,508,INFO,[] Scanning the source: Calibration
+2024-02-07 16:15:26,093,INFO,[] Clicked START
+2024-02-07 16:16:00,936,INFO,[] Running processes stopped...
+2024-02-07 16:16:00,943,INFO,[] Processes finished
+2024-02-07 16:16:07,140,INFO,[] Scanning the source: Single Measurement
+2024-02-07 16:16:08,758,INFO,[] Clicked START
+2024-02-07 16:16:22,693,INFO,[] Storing in: logged_data\2024-Feb-07_16-16-08_fundamental.csv
+2024-02-07 16:18:19,351,WARNING,fgt_set_pressure pressure channel 0 of type NONE error 12 - No modules found 
+2024-02-07 16:18:49,353,WARNING,fgt_set_pressure pressure channel 0 of type NONE error 12 - No modules found 
+2024-02-07 16:18:49,784,WARNING,fgt_set_pressure pressure channel 0 of type NONE error 12 - No modules found 
+2024-02-07 16:21:15,615,INFO,[] Window closed without stopping the capture, application will stop...
+2024-02-07 16:21:16,641,INFO,[] Running processes stopped...
+2024-02-07 16:21:16,644,INFO,[] Processes finished
+2024-02-07 16:21:18,543,INFO,[] Finishing Application...
+
+2024-02-07 16:21:18,543,INFO,[] Application closed
+
+2024-02-07 16:21:41,645,INFO,[] Platform: Windows-10-10.0.22631-SP0
+2024-02-07 16:21:41,645,INFO,[] Platform: Windows-10-10.0.22631-SP0
+2024-02-07 16:21:41,645,INFO,[] Path: C:\Users\tguyo\anaconda3\python39.zip
+2024-02-07 16:21:41,645,INFO,[] Path: C:\Users\tguyo\anaconda3\python39.zip
+2024-02-07 16:21:41,655,INFO,[] Python version: 3.9.12
+2024-02-07 16:21:41,655,INFO,[] Python version: 3.9.12
+2024-02-07 16:21:41,655,INFO,[] Application started
+2024-02-07 16:21:41,655,INFO,[] Application started
+2024-02-07 16:21:41,746,INFO,[] Scanning the source: Calibration
+2024-02-07 16:21:41,746,INFO,[] Scanning the source: Calibration
+2024-02-07 16:21:48,486,INFO,[] Clicked START
+2024-02-07 16:21:48,486,INFO,[] Clicked START
+2024-02-07 16:22:27,809,INFO,[] Running processes stopped...
+2024-02-07 16:22:27,809,INFO,[] Running processes stopped...
+2024-02-07 16:22:27,817,INFO,[] Processes finished
+2024-02-07 16:22:27,817,INFO,[] Processes finished
+2024-02-07 16:22:54,145,INFO,[] Scanning the source: Single Measurement
+2024-02-07 16:22:54,145,INFO,[] Scanning the source: Single Measurement
+2024-02-07 16:22:56,055,INFO,[] Clicked START
+2024-02-07 16:22:56,055,INFO,[] Clicked START
+2024-02-07 16:23:11,263,INFO,[] Storing in: logged_data\2024-Feb-07_16-22-56_fundamental.csv
+2024-02-07 16:23:11,263,INFO,[] Storing in: logged_data\2024-Feb-07_16-22-56_fundamental.csv
+2024-02-07 16:28:30,563,INFO,[] Running processes stopped...
+2024-02-07 16:28:30,563,INFO,[] Running processes stopped...
+2024-02-07 16:28:30,571,INFO,[] Processes finished
+2024-02-07 16:28:30,571,INFO,[] Processes finished
+2024-02-07 17:33:44,267,INFO,[] Finishing Application...
+
+2024-02-07 17:33:44,267,INFO,[] Finishing Application...
+
+2024-02-07 17:33:44,267,INFO,[] Application closed
+
+2024-02-07 17:33:44,267,INFO,[] Application closed
+
+2024-04-05 08:45:59,415,INFO,[] Platform: Windows-10-10.0.22631-SP0
+2024-04-05 08:45:59,415,INFO,[] Path: C:\Users\tguyo\anaconda3\python39.zip
+2024-04-05 08:45:59,415,INFO,[] Python version: 3.9.12
+2024-04-05 08:45:59,425,INFO,[] Application started
+2024-04-05 08:45:59,865,INFO,[] Scanning the source: Calibration
+2024-04-05 08:46:08,859,INFO,[] Finishing Application...
+
+2024-04-05 08:46:08,859,INFO,[] Application closed
+
+2024-04-05 08:46:13,869,INFO,[] Platform: Windows-10-10.0.22631-SP0
+2024-04-05 08:46:13,874,INFO,[] Path: C:\Users\tguyo\anaconda3\python39.zip
+2024-04-05 08:46:13,874,INFO,[] Python version: 3.9.12
+2024-04-05 08:46:13,876,INFO,[] Application started
+2024-04-05 08:46:13,944,INFO,[] Scanning the source: Calibration
+2024-04-05 08:46:17,715,INFO,attempting to load dll: twaindsm.dll
+2024-04-05 08:46:18,293,INFO,DSM initialized
+2024-04-05 08:46:18,294,INFO,opening data source with id 0
+2024-04-05 08:51:15,501,INFO,[] Finishing Application...
+
+2024-04-05 08:51:15,502,INFO,[] Application closed
+
